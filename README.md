@@ -20,8 +20,8 @@ The repository is structured as follows:
 - **MahdiKhodabandelou_ML_MP1_supplementary**: Supplementary solution for mini project1.
 
 
-##Contributing
+## Contributing
 If you would like to contribute to this repository by adding your own solutions or improving existing ones, feel free to submit a pull request.
 
-##License
+## License
 This repository is licensed under the MIT License. You are free to use and modify the contents of this repository for personal or educational purposes.
