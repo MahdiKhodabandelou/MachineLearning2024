@@ -4,22 +4,17 @@ Welcome to my Machine Learning Homework Repository! This repository contains my 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Methodology](#methodology)
+2. [Structre](#structre)
 3. [Results](#results)
 4. [Conclusion](#conclusion)
 
 ## Introduction
 
-This is the introduction section.
+In this repository, you will find my solutions to machine learning homeworks. Each folder contain a report in persian and .ipynb file which cotains codes.
 
-## Methodology
+## Structre
 
-This is the methodology section.
+The repository is structured as follows:
 
-## Results
 
-This is the results section.
 
-## Conclusion
-
-This is the conclusion section.
