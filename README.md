@@ -10,7 +10,7 @@ Welcome to my Machine Learning Homework Repository! This repository contains my 
 
 ## Introduction
 
-In this repository, you will find my solutions to machine learning homeworks. Each folder contain a report in persian and .ipynb file which cotains codes.
+In this repository, you will find my solutions to machine learning homeworks. Each folder contains a report in persian and .ipynb file which cotains codes.
 
 ## Structre
 
