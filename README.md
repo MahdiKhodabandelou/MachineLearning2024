@@ -16,5 +16,8 @@ In this repository, you will find my solutions to machine learning homeworks. Ea
 
 The repository is structured as follows:
 
+- **Assignment1/**: Description of Assignment 1.
+- **Assignment2/**: Description of Assignment 2.
+- **Assignment3/**: Description of Assignment 3.
 
 
