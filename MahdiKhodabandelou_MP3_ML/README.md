@@ -1,9 +1,9 @@
 # Mini Project 3: Support Vector Machines (SVM) Analysis
 
-## Problem 1: Exploring SVM with Various Datasets
+## Problem 1: Exploring SVM with Iris Datasets
 
 ### Objective
-The goal of this problem is to explore the SVM algorithm on different famous datasets. Follow the steps below and include your findings in the report.
+The goal of this problem is to explore the SVM algorithm on Iris datasets. Follow the steps below and include your findings in the report.
 
 ### Task 1: Data Loading and Initial Analysis
 - **Description:**
@@ -11,17 +11,15 @@ The goal of this problem is to explore the SVM algorithm on different famous dat
   - Perform an initial visualization of the datasets (using techniques like t-SNE) to understand their structure.
   - **Objective:** Understand the basic characteristics of the datasets and prepare for further analysis.
 
-### Task 2: Applying SVM and Hyperparameter Tuning
+### Task 2: Applying SVM 
 - **Description:**
-  - Apply the SVM algorithm to each dataset. Perform hyperparameter tuning using cross-validation to find the best parameters.
-  - Visualize the decision boundaries and explain the impact of different parameters on the results.
-  - **Objective:** Optimize the SVM model for each dataset and visualize the results.
+  - Apply the SVM with linear kernel to dataset.
+  - Visualize the decision boundaries.
 
-### Task 3: Comparison with Other Algorithms
+### Task 3: Comparison with Other Kernels
 - **Description:**
-  - Compare the results of SVM with other algorithms using scikit-learn, including logistic regression, decision trees, and k-nearest neighbors.
-  - Visualize and analyze the results, and create a summary GIF comparing the performance of different models.
-  - **Objective:** Evaluate the performance of SVM against other algorithms and present the findings visually.
+  - Compare the results of SVM with polynomyal kernel and different degrees using scikit-learn.
+  - Visualize and analyze the results, and create a summary GIF comparing the performance of degrees.
 
 ### Task 4: Implementing SVM from Scratch
 - **Description:**
