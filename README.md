@@ -19,7 +19,7 @@ The repository is structured as follows:
 - **MahdiKhodabandelou_ML_MP1**: Solution for mini project1(Classification with Linear Models, LS and RLS).
 - **MahdiKhodabandelou_ML_MP1_supplementary**: Supplementary solution for mini project1(Classification with Linear Models, LS and RLS).
 - **MahdiKhodabandelou_ML_MP2**: Solution for mini project2(Neural Network Activation Functions and Perceptrons, Decision tree, Bayesian Classification).
-- **MahdiKhodabandelou_ML_MP3**: Solution for mini project3.
+- **MahdiKhodabandelou_ML_MP3**: Solution for mini project3(Support Vector Machines (SVM) Analysis, Autoencoder).
 - **MahdiKhodabandelou_ML_MP4**: Solution for mini project4.
  
 
