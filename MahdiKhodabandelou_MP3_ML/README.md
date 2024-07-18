@@ -1,4 +1,4 @@
-# Mini Project 3: Support Vector Machines (SVM) Analysis
+# Mini Project 3: Support Vector Machines (SVM) Analysis, Autoencoder
 
 ## Problem 1: Exploring SVM with Iris Datasets
 
