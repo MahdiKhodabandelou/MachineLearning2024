@@ -36,7 +36,7 @@
 
 ### Task 2: Forming the Dataset
 - **Description:**
-  - Separate data into classes (M classes with N samples each) and form a matrix of 100 samples and 200 data points for each class.
+  - Separate data into MxN matrix data points for each class.
   - Extract 8 features from the data using the formulas provided in Table 1.
 
 ### Task 3: Extracting Features
