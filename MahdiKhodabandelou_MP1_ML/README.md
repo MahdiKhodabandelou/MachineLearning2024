@@ -1,35 +1,30 @@
-# Mini Project 1: Classification with Linear Models
+# Mini Project 1: Classification with Linear Models,  LS and RLS
 
 ## Problem 1: Training and Evaluating a Classification Model
 
 ### Task 1: Visualizing the Classification Process
 - **Description:** 
   - Train a linear classification model and visualize the decision boundary. Display this boundary on a scatter plot with various components.
-  - **Objective:** Understand how changing from binary classification to multi-class classification affects the decision boundary.
  
 
 ### Task 2: Generating and Visualizing a Dataset
 - **Description:**
   - Use `sklearn.datasets` to generate a dataset with 1000 samples, 4 classes, and 2 features. Display this dataset in a scatter plot.
-  - **Challenge:** The dataset is not linearly separable, which introduces complexity in classification.
 
 
 ### Task 3: Using Logistic Regression for Classification
 - **Description:**
   - Train a logistic regression model (`sklearn.linear_model`) with at least two classes. Use cross-validation to determine the best hyperparameters.
-  - **Objective:** Display the training and evaluation process, including how different techniques improve the results.
 
 
 ### Task 4: Visualizing Decision Boundaries
 - **Description:**
   - Show the decision boundaries of the trained model with sample points in one plot. Include different shapes and colors for classes.
-  - **Objective:** Clearly distinguish between classes and understand the model's classification behavior.
 
 
 ### Task 5: Repeating with New Data
 - **Description:**
   - Use the `drawdata` tool to create new datasets and repeat the classification and visualization process.
-  - **Objective:** Demonstrate the consistency and reliability of the classification model with new data.
 
 
 ## Problem 2: Working with CWRU Bearing Dataset
