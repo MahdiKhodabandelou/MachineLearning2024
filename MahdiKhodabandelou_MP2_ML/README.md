@@ -1,4 +1,4 @@
-# Mini Project 2: Neural Network Activation Functions and Perceptrons
+# Mini Project 2: Neural Network Activation Functions and Perceptrons, Decision tree, Bayesian Classification
 
 ## Problem 1: Analyzing Activation Functions and Perceptrons
 
@@ -14,11 +14,8 @@
 
 ### Task 3: Designing McCulloch-Pitts Neurons
 - **Description:**
-  - Design a simple perceptron using McCulloch-Pitts neurons to generate shapes within a defined area as shown in bellow Figure.
-  - 
-  - Implement the neuron network to classify points inside and outside the shape as shown in Figure 1 (ii).
-  
-  **Figure 1:** (i) Desired output area, (ii) Program output area.
+  - Design a simple perceptron using McCulloch-Pitts neurons to generate shapes within a defined area, as shown in the figure below.
+  - ![image](https://github.com/user-attachments/assets/63c83801-ca11-405c-88e4-6663568a2086)
 
 ## Problem 2: Working with CWRU Bearing Dataset
 
