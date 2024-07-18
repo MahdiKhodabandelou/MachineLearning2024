@@ -1,4 +1,4 @@
-# MahdiKhodabandelou_ML
+# MachineLearning2024
 Welcome to my Machine Learning Homework Repository! This repository contains my solutions and projects for machine learning.
 
 ## Table of Contents
