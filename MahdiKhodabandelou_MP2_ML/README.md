@@ -4,24 +4,18 @@
 
 ### Task 1: Impact of ReLU in a Two-Class Classification Problem
 - **Description:**
-  - Consider a two-class classification problem where the final layer of your network uses ReLU as the activation function.
+  - Consider a two-class classification problem where the final layer of your network uses ReLU and sigmoid as the activation function.
   - **Objective:** What happens in this scenario?
 
 ### Task 2: Replacing ReLU with ELU
 - **Description:**
-  - Replace ReLU with ELU as defined in Equation (1). Calculate its gradient and explain one advantage of ELU over ReLU.
+  - Replace ReLU with ELU. Calculate its gradient and explain one advantage of ELU over ReLU.
   
-  \[
-  \text{ELU}(x) = 
-  \begin{cases} 
-  x & x \geq 0 \\
-  \alpha (e^x - 1) & x < 0 
-  \end{cases}
-  \]
 
 ### Task 3: Designing McCulloch-Pitts Neurons
 - **Description:**
-  - Design a simple perceptron using McCulloch-Pitts neurons to generate shapes within a defined area as shown in Figure 1 (i). 
+  - Design a simple perceptron using McCulloch-Pitts neurons to generate shapes within a defined area as shown in bellow Figure.
+  - 
   - Implement the neuron network to classify points inside and outside the shape as shown in Figure 1 (ii).
   
   **Figure 1:** (i) Desired output area, (ii) Program output area.
